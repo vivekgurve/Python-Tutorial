@@ -1,6 +1,15 @@
-# Python Installation Guide for Windows
+<h1 align="center"> Python Installation Guide for Windows</h1>
 
+<p align="center">  
+<br>
+<img src="Images/Python_logo.png" title="Python" alt="Python" width="190" height="170"/>
+<be>
+</p>
+  
+<p align="center">
 Welcome to the Python Installation Guide for Windows! This guide will walk you through the steps to install Python on a Windows machine.
+</p>
+
 
 ## Prerequisites
 
