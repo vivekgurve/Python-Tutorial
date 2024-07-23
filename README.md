@@ -36,3 +36,17 @@ Before you start, ensure that you have administrative access to your Windows com
 2. In the Command Prompt, type the following command and press Enter:
    ```sh
    python --version
+   
+## Step 4: Setting Up Environment Variables
+
+If you checked the "Add Python to PATH" option during installation, you can skip this step. If not, follow these instructions:
+
+1. Right-click on the Start button and select "System".
+2. Click on "Advanced system settings".
+3. In the System Properties window, click on the "Environment Variables" button.
+4. In the Environment Variables window, scroll down and find the "Path" variable under the "System variables" section, then click "Edit".
+5. Click "New" and add the path to your Python installation. The default path is usually C:\Python39 or similar, depending on the version.
+6. Also, add the path to the Scripts directory, e.g., C:\Python39\Scripts.
+7. Click "OK" to save the changes.
+
+   
